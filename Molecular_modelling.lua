@@ -1,5 +1,5 @@
 -- Jupyter
-depends_on("gpaw/22.8.0-omp")
+depends_on("gpaw/22.8.0")
 prepend_path("PATH", "/projappl/project_2012512/Molecular_modelling/bin")
 setenv("_COURSE_BASE_NAME","Molecular_modelling")
 setenv("_COURSE_NOTEBOOK","MolecularModelling/ASE_basics.ipynb")
