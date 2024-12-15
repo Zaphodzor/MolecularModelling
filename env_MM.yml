@@ -3,6 +3,7 @@ channels:
 dependencies:
   - python=3.8.8
   - jupyterlab
+  - notebook
   - numpy
   - matplotlib
   - pyyaml
