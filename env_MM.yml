@@ -5,7 +5,6 @@ dependencies:
   - jupyterlab
   - numpy
   - matplotlib
-  - mdanalysis
   - pyyaml
   - scipy
   - pandas
